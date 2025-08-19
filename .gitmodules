@@ -1,0 +1,3 @@
+[submodule "android_testing_utils"]
+	path = android_testing_utils
+	url = https://github.com/Yuanhong-Lan/android_testing_utils.git
