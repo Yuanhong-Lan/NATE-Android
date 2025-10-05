@@ -7,7 +7,7 @@ import time
 
 from NATE.network_injector.injection_data import InjectStrategy
 from NATE.network_injector.injector import Injector
-from android_testing_utils.log import my_logger
+from NATE.android_testing_utils.log import my_logger
 
 
 class InjectorHandler:

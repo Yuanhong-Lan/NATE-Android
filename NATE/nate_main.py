@@ -10,7 +10,7 @@ from NATE.guidance.guidance_model import QLearningWithKnownActionNum, QLearningW
 from NATE.network_injector.injector_wrapper import InjectorHandler
 from NATE.network_monitor.monitor import NetworkMonitor
 from NATE.network_monitor.monitor_data import NetFlowStrategy
-from android_testing_utils.log import my_logger
+from NATE.android_testing_utils.log import my_logger
 
 
 class NATE_MAIN:

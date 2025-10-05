@@ -6,7 +6,7 @@ import os
 from abc import ABC, abstractmethod
 from typing import Optional, Dict, List
 
-from android_testing_utils.log import my_logger
+from NATE.android_testing_utils.log import my_logger
 
 
 class QLearning(ABC):

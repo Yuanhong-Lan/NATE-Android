@@ -7,8 +7,8 @@ import threading
 import time
 
 from NATE.network_injector.injection_data import InjectStrategy, InjectorRecorder
-from android_testing_utils.log import my_logger
-from android_testing_utils.tool.adb_cmd import ADBNetwork, ADBSystemOperation
+from NATE.android_testing_utils.log import my_logger
+from NATE.android_testing_utils.tool.adb_cmd import ADBNetwork, ADBSystemOperation
 
 
 class Injector:

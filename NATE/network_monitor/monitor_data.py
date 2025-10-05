@@ -7,7 +7,7 @@ import subprocess
 from enum import Enum
 from typing import NamedTuple
 
-from android_testing_utils.log import my_logger
+from NATE.android_testing_utils.log import my_logger
 
 
 class NetFlowItem(NamedTuple):

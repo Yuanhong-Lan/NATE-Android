@@ -12,7 +12,7 @@ from typing import List
 
 from NATE.network_monitor.monitor_data import NetFlowItem, NetFlowStrategy, GetCurrentNetworkStats
 from NATE.util import time_util
-from android_testing_utils.log import my_logger
+from NATE.android_testing_utils.log import my_logger
 
 
 class NetworkMonitor:
